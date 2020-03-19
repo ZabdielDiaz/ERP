@@ -43,7 +43,7 @@ Dudas sobre la administración o dudas generales
 - Victor
 - Arias
 
-Para dudas sobre la base de datos
+Dudas sobre la base de datos
 
 - Jhonny
 - Paola
