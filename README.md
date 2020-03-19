@@ -34,7 +34,7 @@ Deben ser en una rama/branch con nombre:
 
 ###### Index
 
-index_modulo.html o index_modulo.php
+> index_modulo.html o index_modulo.php
 
 ## Dudas
 
