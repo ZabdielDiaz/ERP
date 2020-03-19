@@ -36,3 +36,21 @@ Deben ser en una rama/branch con nombre:
 
 index_modulo.html o index_modulo.php
 
+## Dudas
+
+Dudas sobre la administración o dudas generales
+
+- Victor
+- Arias
+
+Para dudas sobre la base de datos
+
+- Jhonny
+- Paola
+- Zambrano
+
+Dudas sobre estilos, formatos y HTML
+
+- Bruno
+- Zabdiel
+
